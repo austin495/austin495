@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @austin495
-- 👀 I’m interested in Programing such as PHP Programing and Designing Node Js Programing, React Programing, Paython Programing and web designing.
+- 👀 I’m interested in Programing such as PHP Programing and Designing Node Js, React, Paython and web designing.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on React.
 - 📫 How to reach me: Here is my Email (asimnoman2000@gmail.com) and Phone number (+92 3168 671360) feel free to ping me any time Thanks!
